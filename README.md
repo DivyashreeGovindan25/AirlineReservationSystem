@@ -4,6 +4,8 @@ Developed a Airline reservation system using java(Java swing) with database(MySQ
 This project Airline reservation system is developed using java swing technology , java swing is a light weight desktop application provided by java
 Since this project is developed using java swing technology, it can be run only using jdk and for database mysql workbench is used
 
+Please make use of the project from master branch
+
 ### Output
 Login Page
 ![image](https://github.com/DivyashreeGovindan25/AirlineReservationSystem/assets/136978089/93cdce29-4bcc-47d4-b8ce-40f6c4dbe815)
